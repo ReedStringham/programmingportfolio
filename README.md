@@ -12,6 +12,9 @@ Description
 
 [Source Code](https://github.com/ReedStringham/programmingportfolio/blob/main/src/term1/EtchASketch.pde)
 
+### Grading App
+
+![Running App]()
 ## Term 2
 ### Calculator
 Object oriented graphical
