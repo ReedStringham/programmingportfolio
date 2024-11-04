@@ -8,11 +8,13 @@
 ## Term 1
 ### Etch-A-Sketch
 Description
+
 ![Running App](https://github.com/ReedStringham/programmingportfolio/blob/main/images/etch.png?raw=true)
 
 [Source Code](https://github.com/ReedStringham/programmingportfolio/blob/main/src/term1/EtchASketch.pde)
 
 ### Grading App
+Description
 
 ![Running App](https://github.com/ReedStringham/programmingportfolio/blob/main/images/grading.png?raw=true)
 
@@ -20,6 +22,7 @@ Description
 ## Term 2
 ### Calculator
 Object oriented graphical
+
 ![Running App](https://github.com/ReedStringham/programmingportfolio/blob/main/images/calc.png?raw=true)
 
 [Source Code](https://github.com/ReedStringham/programmingportfolio/blob/main/src/term2/Calculator/Calculator.pde)
