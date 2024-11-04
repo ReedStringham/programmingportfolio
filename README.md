@@ -13,6 +13,7 @@ Description
 ![Running App](https://github.com/ReedStringham/programmingportfolio/blob/main/images/etch.png?raw=true)
 
 [Source Code]()
+
 ## Term 2
 ### Calculator
 
@@ -20,4 +21,4 @@ Description
 
 ![Running App]()
 
-[Source Code]()
+[Source Code](https://github.com/ReedStringham/programmingportfolio/blob/main/src/term1/Calculator/Calculator.pde)
