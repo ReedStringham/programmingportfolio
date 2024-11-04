@@ -7,18 +7,14 @@
 
 ## Term 1
 ### Etch-A-Sketch
-
 Description
-
 ![Running App](https://github.com/ReedStringham/programmingportfolio/blob/main/images/etch.png?raw=true)
 
 [Source Code]()
 
 ## Term 2
 ### Calculator
-
-Description
-
+Object oriented graphical
 ![Running App]()
 
-[Source Code](https://github.com/ReedStringham/programmingportfolio/blob/main/src/term1/Calculator/Calculator.pde)
+[Source Code](https://github.com/ReedStringham/programmingportfolio/blob/main/src/term2/Calculator/Calculator.pde)
