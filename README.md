@@ -7,21 +7,21 @@
 
 ## Term 1
 ### Etch-A-Sketch
-Description
+Graphical interface where you can use the arrow keys to move a line around the screen
 
 ![Running App](https://github.com/ReedStringham/programmingportfolio/blob/main/images/etch.png?raw=true)
 
 [Source Code](https://github.com/ReedStringham/programmingportfolio/blob/main/src/term1/EtchASketch.pde)
 
 ### Grading App
-Description
+A app in which you can move your cursor over a line and it will give you an output depending on where your cursor is
 
 ![Running App](https://github.com/ReedStringham/programmingportfolio/blob/main/images/grading.png?raw=true)
 
 [Source Code](https://github.com/ReedStringham/programmingportfolio/blob/main/src/term1/gradingApp.pde)
 ## Term 2
 ### Calculator
-Object oriented graphical
+Object oriented graphical interface where you can click buttons and get mathematical results
 
 ![Running App](https://github.com/ReedStringham/programmingportfolio/blob/main/images/calc.png?raw=true)
 
