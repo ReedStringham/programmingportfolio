@@ -20,6 +20,6 @@ Description
 ## Term 2
 ### Calculator
 Object oriented graphical
-![Running App]()
+![Running App](https://github.com/ReedStringham/programmingportfolio/blob/main/images/calc.png?raw=true)
 
 [Source Code](https://github.com/ReedStringham/programmingportfolio/blob/main/src/term2/Calculator/Calculator.pde)
