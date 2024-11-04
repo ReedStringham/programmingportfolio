@@ -7,7 +7,7 @@
 
 ## Term 1
 ### Etch-A-Sketch
-![Running App]()
+![Running App](https://github.com/ReedStringham/programmingportfolio/blob/main/images/etch.png?raw=true)
 [Source Code]()
 ## Term 2
 ### Calculator
