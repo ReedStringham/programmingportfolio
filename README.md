@@ -10,7 +10,7 @@
 Description
 ![Running App](https://github.com/ReedStringham/programmingportfolio/blob/main/images/etch.png?raw=true)
 
-[Source Code]()
+[Source Code](https://github.com/ReedStringham/programmingportfolio/blob/main/src/term1/EtchASketch.pde)
 
 ## Term 2
 ### Calculator
