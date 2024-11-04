@@ -14,7 +14,7 @@ Description
 
 ### Grading App
 
-![Running App](https://github.com/ReedStringham/programmingportfolio/blob/main/images/grading.png)
+![Running App](https://github.com/ReedStringham/programmingportfolio/blob/main/images/grading.png?raw=true)
 ## Term 2
 ### Calculator
 Object oriented graphical
