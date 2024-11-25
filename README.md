@@ -29,5 +29,5 @@ Object oriented graphical interface where you can click buttons and get mathemat
 
 ### SpaceGame
 Description: OOP solution for a collision based space themed game.
-![Gameplay]()
+![Gameplay](https://github.com/ReedStringham/programmingportfolio/blob/main/images/spacegame.png)
 [Source Code][https://github.com/ReedStringham/programmingportfolio/tree/main/src/term2/SpaceGame]
