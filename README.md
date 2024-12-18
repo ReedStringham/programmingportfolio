@@ -25,7 +25,7 @@ App where you move your cursor along the line, giving you an output that is fahr
 
 ![Running App](https://github.com/ReedStringham/programmingportfolio/blob/main/images/temp.png)
 
-[Source Code]()
+[Source Code](https://github.com/ReedStringham/programmingportfolio/blob/main/src/term1/TempConverter.pde)
 ## Term 2
 ### Calculator
 Object oriented graphical interface where you can click buttons and get mathematical results
