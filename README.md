@@ -1,4 +1,5 @@
 # Reed's Programming Portfolio 2024-25 | Reed Stringham | reed.b.stringham@gmail.com
+* Certified in Programming 1
 * Projected graduation in 2028
 * New to programming
 * Lives in utah!
