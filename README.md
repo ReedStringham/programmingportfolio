@@ -2,7 +2,7 @@
 * Certified in Programming 1
 * Projected graduation in 2028
 * New to programming
-* Lives in utah!
+* Typing at 47 words per minute
 
 
 ## Term 1
