@@ -19,6 +19,11 @@ A app in which you can move your cursor over a line and it will give you an outp
 ![Running App](https://github.com/ReedStringham/programmingportfolio/blob/main/images/grading.png?raw=true)
 
 [Source Code](https://github.com/ReedStringham/programmingportfolio/blob/main/src/term1/gradingApp.pde)
+
+### Temp Converter
+App where you move your cursor along the line, giving you an output that is fahrenheit converted to celsius, also similair to Grading App
+
+![Running App]()
 ## Term 2
 ### Calculator
 Object oriented graphical interface where you can click buttons and get mathematical results
