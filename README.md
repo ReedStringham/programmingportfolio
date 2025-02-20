@@ -23,7 +23,7 @@ A app in which you can move your cursor over a line and it will give you an outp
 ### Temp Converter
 App where you move your cursor along the line, giving you an output that is fahrenheit converted to celsius, also similair to Grading App
 
-![Running App](https://github.com/ReedStringham/programmingportfolio/blob/main/images/temp.png)
+![Running App](https://github.com/ReedStringham/programmingportfolio/blob/main/images/temp.png?raw=true)
 
 [Source Code](https://github.com/ReedStringham/programmingportfolio/blob/main/src/term1/TempConverter.pde)
 ## Term 2
@@ -37,13 +37,13 @@ Object oriented graphical interface where you can click buttons and get mathemat
 ### SpaceGame
 Description: OOP solution for a collision based space themed game.
 
-![Gameplay](https://github.com/ReedStringham/programmingportfolio/blob/main/images/spacegame.png)
+![Gameplay](https://github.com/ReedStringham/programmingportfolio/blob/main/images/spacegame.png?raw=true)
 
 [Source Code](https://github.com/ReedStringham/programmingportfolio/tree/main/src/term2/SpaceGame)
 
 ## Term 3
 ### ShapeTester
 
-![Gameplay](https://github.com/ReedStringham/programmingportfolio/blob/main/images/shapes.png?raw=true)
+![Running App](https://github.com/ReedStringham/programmingportfolio/blob/main/images/shapes.png?raw=true)
 
 [Source Code](https://github.com/ReedStringham/programmingportfolio/tree/main/src/term3/ShapeTesterProgram)
