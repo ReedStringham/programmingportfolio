@@ -43,6 +43,6 @@ Description: OOP solution for a collision based space themed game.
 ## Term 3
 ### ShapeTester
 
-![Gameplay](https://github.com/ReedStringham/programmingportfolio/blob/main/images/Shapes.png)
+![Gameplay](https://github.com/ReedStringham/programmingportfolio/blob/main/images/shapes.png)
 
 [Source Code](https://github.com/ReedStringham/programmingportfolio/tree/main/src/term3/ShapeTesterProgram)
