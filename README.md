@@ -28,6 +28,7 @@ App where you move your cursor along the line, giving you an output that is fahr
 ![Running App](https://github.com/ReedStringham/programmingportfolio/blob/main/images/temp.png?raw=true)
 
 [Source Code](https://github.com/ReedStringham/programmingportfolio/blob/main/src/term1/TempConverter.pde)
+
 ## Term 2
 ### Calculator
 Object oriented graphical interface where you can click buttons and get mathematical results
@@ -57,3 +58,9 @@ Description: OOP solution for a collision based space themed game.
 ![Running App](https://github.com/ReedStringham/programmingportfolio/blob/main/images/madlib.png?raw=true)
 
 [Source Code](https://github.com/HenryBald/Madlib/blob/main/src/Madlib/Madlib.java)
+
+## CSharp
+
+![Running App](https://github.com/ReedStringham/programmingportfolio/blob/main/images/csharp.png)
+
+[Source Code](https://github.com/HenryBald/CSharp/tree/main/src/CSharp)
