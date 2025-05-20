@@ -4,6 +4,8 @@
 * New to programming
 * Typing at 47 words per minute
 
+The following is a list of my high school programming achievements and progress.
+
 ## Certifications
 ![Certificate1](https://github.com/ReedStringham/programmingportfolio/blob/main/images/computerprogramming1.png)
 ![Certificate2](https://github.com/ReedStringham/programmingportfolio/blob/main/images/computerprogramming2.png)
