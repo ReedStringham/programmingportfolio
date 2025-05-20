@@ -5,6 +5,7 @@
 * Typing at 47 words per minute
 
 
+# Personal Projects:
 ## Term 1
 ### Etch-A-Sketch
 Graphical interface where you can use the arrow keys to move a line around the screen
