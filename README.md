@@ -58,14 +58,15 @@ Description: OOP solution for a collision based space themed game.
 
 # Group Projects
 
-## Madlib
+# Term 4
+### Madlib
 Description: In this Madlib project, I created the user input with Henry, and our group decided to work with CodeHS to create the project. Although CodeHS caused us some problems, the end product was very successful, and our group was really happy with what we made.
 
 ![Running App](https://github.com/ReedStringham/programmingportfolio/blob/main/images/madlib.png?raw=true)
 
 [Source Code](https://github.com/HenryBald/Madlib/blob/main/src/Madlib/Madlib.java)
 
-## CSharp
+### CSharp
 Description: Creating this Music App was much harder than our group expect, and for me I origanally planned on only making the background effects class, but then realized we needed a lot more help, and I ended up working on many different classes throughout this process, especially with testing because we had to test a lot. But this time our group used a Github app to create our project, with processing to run it, and it ended up really good and our group is very proud of our project.
 
 ![Running App](https://github.com/ReedStringham/programmingportfolio/blob/main/images/csharp.png)
