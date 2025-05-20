@@ -5,7 +5,8 @@
 * Typing at 47 words per minute
 
 
-# Personal Projects:
+# Personal Projects
+
 ## Term 1
 ### Etch-A-Sketch
 Graphical interface where you can use the arrow keys to move a line around the screen
@@ -48,3 +49,5 @@ Description: OOP solution for a collision based space themed game.
 ![Running App](https://github.com/ReedStringham/programmingportfolio/blob/main/images/shapes.png?raw=true)
 
 [Source Code](https://github.com/ReedStringham/programmingportfolio/tree/main/src/term3/ShapeTesterProgram)
+
+# Group Projects
