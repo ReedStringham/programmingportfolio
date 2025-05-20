@@ -4,6 +4,9 @@
 * New to programming
 * Typing at 47 words per minute
 
+## Certifications
+![Certificate1](https://github.com/ReedStringham/programmingportfolio/blob/main/images/computerprogrammingI.pdf)
+![Certificate2](https://github.com/ReedStringham/programmingportfolio/blob/main/images/computerprogramming2.pdf)
 
 # Personal Projects
 
